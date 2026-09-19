@@ -1,0 +1,6 @@
+{
+  "name": "SinoLearn",
+  "description": "Ứng dụng học tiếng Trung chuyên sâu với từ điển tra cứu, dịch đàm thoại, thẻ ghi nhớ flashcards 3D, bài kiểm tra thực hành và luyện viết thứ tự nét chữ Hán.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
